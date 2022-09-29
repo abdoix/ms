@@ -56,7 +56,7 @@ class Base
         $class = get_called_class();
 
         # getters case
-        $getMatches = Strings::getInstance()->match($method,'^get([a-zA-Z0-9_]+)$');
+        $getMatches = (array) Strings::getInstance()->match($method,'^get([a-zA-Z0-9_]+)$');
 
         if (sizeof($getMatches) > 0) 
         {
