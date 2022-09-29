@@ -1,0 +1,534 @@
+<?xml version='1.0' encoding='UTF-8'?><dataset apifunc='getcampaigns'><data><campaignid><![CDATA[9068]]></campaignid><name><![CDATA[$1000 Bank of America Visa Card [aws]]]></name><description><![CDATA[US Only / 
+Accepts Email / 
+Accepts Weekend / 
+Converts per lead / ]]></description><payout><![CDATA[$3.00]]></payout><unit><![CDATA[per lead]]></unit><daysleft/><bannercount/><emailcount><![CDATA[3]]></emailcount><textcount/><category><![CDATA[Promo / Survey]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[10378]]></campaignid><name><![CDATA[$1000 MasterCard Platinum--]]></name><description><![CDATA[US and CA / 
+Accepts Email / 
+Accepts Weekends / 
+Converts on lead submit]]></description><payout><![CDATA[$3.50]]></payout><unit><![CDATA[per lead]]></unit><daysleft/><bannercount/><emailcount><![CDATA[2]]></emailcount><textcount/><category><![CDATA[Credit Card]]></category><geotargeting><![CDATA[Traffic allowed from: US - CA]]></geotargeting></data><data><campaignid><![CDATA[9494]]></campaignid><name><![CDATA[$500 Capital One Visa Card [aws]]]></name><description><![CDATA[US Only / 
+Accepts email / 
+Accepts weekend / 
+Converts on lead / ]]></description><payout><![CDATA[$3.00]]></payout><unit><![CDATA[per lead]]></unit><daysleft/><bannercount/><emailcount><![CDATA[2]]></emailcount><textcount/><category><![CDATA[Credit Card,Promo / Survey]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[9676]]></campaignid><name><![CDATA[1-Year Amazon Prime [aws]]]></name><description><![CDATA[US Only / 
+Accepts Email / 
+Accepts Weekend / 
+Converts per lead / ]]></description><payout><![CDATA[$3.00]]></payout><unit><![CDATA[per lead]]></unit><daysleft/><bannercount/><emailcount><![CDATA[4]]></emailcount><textcount/><category><![CDATA[Promo / Survey]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[9918]]></campaignid><name><![CDATA[247ChristmasLoans.com--]]></name><description><![CDATA[US Only / 
+Accepts Email / 
+Accepts weekend / 
+Converts on funded loan / ]]></description><payout><![CDATA[$63.00]]></payout><unit><![CDATA[per funded loan]]></unit><daysleft/><bannercount/><emailcount><![CDATA[6]]></emailcount><textcount/><category><![CDATA[Personal Loan]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[10047]]></campaignid><name><![CDATA[5kLoanToday EXCLUSIVE--]]></name><description><![CDATA[US only / 
+Accepts email / 
+Accepts weekend / 
+Converts on full application submit / ]]></description><payout><![CDATA[$54.00]]></payout><unit><![CDATA[per app]]></unit><daysleft/><bannercount/><emailcount><![CDATA[4]]></emailcount><textcount/><category><![CDATA[iDrive Exclusives,Personal Loan]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[9809]]></campaignid><name><![CDATA[7955 - BadCredit.com CPL--]]></name><description><![CDATA[Weekend is permitted / 
+Accepts email and display -- All Display placement must be approved before activating / 
+Converts on funded app / ]]></description><payout><![CDATA[$23.00]]></payout><unit><![CDATA[per funded loan]]></unit><daysleft/><bannercount/><emailcount><![CDATA[2]]></emailcount><textcount/><category><![CDATA[Personal Loan]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[8832]]></campaignid><name><![CDATA[8832 - DermaSuction]]></name><description><![CDATA[US Only / 
+Accepts Email / 
+Accepts Weekend Traffic / 
+converts on Sale / ]]></description><payout><![CDATA[$14.00]]></payout><unit><![CDATA[per sale]]></unit><daysleft/><bannercount/><emailcount><![CDATA[5]]></emailcount><textcount/><category><![CDATA[Beauty]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[8838]]></campaignid><name><![CDATA[8838 - Ultra Omega Burn ]]></name><description><![CDATA[US Only / 
+Accepts Email / 
+Accepts Weekend / 
+Converts on CC submit / ]]></description><payout><![CDATA[$60.00]]></payout><unit><![CDATA[per sale]]></unit><daysleft/><bannercount/><emailcount><![CDATA[13]]></emailcount><textcount/><category><![CDATA[Health / Wellness]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[8840]]></campaignid><name><![CDATA[8840 - BioLeptin ]]></name><description><![CDATA[US Only / 
+Accepts Email / 
+Accepts Weekend / 
+Converts on CC submit / ]]></description><payout><![CDATA[$55.00]]></payout><unit><![CDATA[per card issued]]></unit><daysleft/><bannercount/><emailcount><![CDATA[15]]></emailcount><textcount/><category><![CDATA[Health / Wellness]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[9054]]></campaignid><name><![CDATA[9054 - Huggle Hoodie]]></name><description><![CDATA[US Only / 
+Accepts Email / 
+Accepts Weekend / 
+Converts on sale / ]]></description><payout><![CDATA[$21.00]]></payout><unit><![CDATA[per sale]]></unit><daysleft/><bannercount/><emailcount><![CDATA[4]]></emailcount><textcount/><category><![CDATA[ECommerce]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[9192]]></campaignid><name><![CDATA[9192 - 22 Minutes to Profit (US/CA)]]></name><description><![CDATA[US/CA traffic only / 
+Accepts email, display, push, sms / 
+Accepts weekend traffic / 
+Converts on CC submit / ]]></description><payout><![CDATA[$77.00]]></payout><unit><![CDATA[per card issued]]></unit><daysleft/><bannercount/><emailcount><![CDATA[8]]></emailcount><textcount/><category><![CDATA[Biz Opp,Traffic: Display,Traffic: Push,Traffic: SMS ]]></category><geotargeting><![CDATA[Traffic allowed from: US - CA]]></geotargeting></data><data><campaignid><![CDATA[9244]]></campaignid><name><![CDATA[9244 - Sera Lab CBD Trial]]></name><description><![CDATA[US only / 
+Accepts email / 
+Accepts weekend traffic / 
+Converts on CC submit / ]]></description><payout><![CDATA[$33.00]]></payout><unit><![CDATA[per card issued]]></unit><daysleft/><bannercount/><emailcount><![CDATA[10]]></emailcount><textcount/><category><![CDATA[CBD,Health / Wellness]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[9252]]></campaignid><name><![CDATA[9252 - Sera Lab CBD]]></name><description><![CDATA[US only / 
+Accepts email / 
+Accepts weekend traffic / 
+Converts on sale / ]]></description><payout><![CDATA[$81.00]]></payout><unit><![CDATA[per sale]]></unit><daysleft/><bannercount/><emailcount><![CDATA[7]]></emailcount><textcount/><category><![CDATA[CBD,Health / Wellness]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[9261]]></campaignid><name><![CDATA[9261 - Get Auto Quote (No Weekend Drops) ]]></name><description><![CDATA[US Only / 
+Accepts Email / 
+Does Not Accept Weekend Traffic / 
+Converts on zip submit / ]]></description><payout><![CDATA[$9.00]]></payout><unit><![CDATA[per zip submit]]></unit><daysleft/><bannercount/><emailcount><![CDATA[2]]></emailcount><textcount/><category><![CDATA[Auto Insurance,Email / Zip Submit]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[9310]]></campaignid><name><![CDATA[9310 - Target $150 Gift Card]]></name><description><![CDATA[US Only / 
+Accepts email, banner, search, push and link placement / 
+Accepts weekend / 
+Converts on email submit / ]]></description><payout><![CDATA[$2.50]]></payout><unit><![CDATA[per email submit]]></unit><daysleft/><bannercount/><emailcount><![CDATA[9]]></emailcount><textcount/><category><![CDATA[Email / Zip Submit,Holiday -- Christmas / New Year ,Promo / Survey,Traffic: Display,Traffic: Push,Traffic: Search]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[9311]]></campaignid><name><![CDATA[9311 - HBO Go Year Subscription]]></name><description><![CDATA[US Only / 
+Accepts email, banner, search, push and link placement / 
+Accepts weekend / 
+Converts on email submit / ]]></description><payout><![CDATA[$2.50]]></payout><unit><![CDATA[per email submit]]></unit><daysleft/><bannercount/><emailcount><![CDATA[7]]></emailcount><textcount/><category><![CDATA[Email / Zip Submit,Promo / Survey,Traffic: Display,Traffic: Push,Traffic: Search]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[9376]]></campaignid><name><![CDATA[9376 - Amanda Medium ]]></name><description><![CDATA[US Only / 
+Accepts email / 
+Accepts weekend traffic / 
+Converts on lead submit / ]]></description><payout><![CDATA[$4.50]]></payout><unit><![CDATA[per lead]]></unit><daysleft/><bannercount/><emailcount><![CDATA[5]]></emailcount><textcount/><category><![CDATA[Psychic / Horoscope]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[9399]]></campaignid><name><![CDATA[9399 - Healthy Blood Pressure Protocol Advertorial ]]></name><description><![CDATA[US Only / 
+Accepts email / 
+Accepts weekend / 
+Converts on CC submit / ]]></description><payout><![CDATA[$50.00]]></payout><unit><![CDATA[per card issued]]></unit><daysleft/><bannercount/><emailcount><![CDATA[6]]></emailcount><textcount/><category><![CDATA[Health / Wellness]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[9448]]></campaignid><name><![CDATA[9448 - Cop Cam]]></name><description><![CDATA[US Only / 
+Accepts email / 
+Accepts weekend / 
+Converts on sale / ]]></description><payout><![CDATA[$19.50]]></payout><unit><![CDATA[per sale]]></unit><daysleft/><bannercount/><emailcount><![CDATA[5]]></emailcount><textcount/><category><![CDATA[ECommerce]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[9476]]></campaignid><name><![CDATA[9476 - Breathe Green Dust Mite Fighter]]></name><description><![CDATA[US Only / 
+Accepts email / 
+Accepts weekend / 
+Converts on CC submit / ]]></description><payout><![CDATA[$38.00]]></payout><unit><![CDATA[per card issued]]></unit><daysleft/><bannercount/><emailcount><![CDATA[6]]></emailcount><textcount/><category><![CDATA[Health / Wellness]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[9477]]></campaignid><name><![CDATA[9477 - Breathe Green Charcoal Purifying Bag]]></name><description><![CDATA[US Only / 
+Accepts email / 
+Accepts weekend / 
+Converts on CC submit / ]]></description><payout><![CDATA[$39.00]]></payout><unit><![CDATA[per card issued]]></unit><daysleft/><bannercount/><emailcount><![CDATA[7]]></emailcount><textcount/><category><![CDATA[Health / Wellness]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[9515]]></campaignid><name><![CDATA[9515 - Monevo USA Personal Loans CPA (Approved Only)]]></name><description><![CDATA[Approved Only - Requires Approval / 
+US only / 
+Accepts email / 
+Accepts weekend traffic / 
+Converts on lead / ]]></description><payout><![CDATA[$55.00]]></payout><unit><![CDATA[per lead]]></unit><daysleft/><bannercount/><emailcount><![CDATA[5]]></emailcount><textcount/><category><![CDATA[Personal Loan]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[9540]]></campaignid><name><![CDATA[9540 - Home Warranty Quiz]]></name><description><![CDATA[US Only / 
+Accepts email / 
+Accepts weekend / 
+Converts on contact page lead submit / ]]></description><payout><![CDATA[$25.00]]></payout><unit><![CDATA[per lead]]></unit><daysleft/><bannercount/><emailcount><![CDATA[12]]></emailcount><textcount/><category><![CDATA[Home Warranty]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[9549]]></campaignid><name><![CDATA[9549 - Breathe Green Plug n Pure]]></name><description><![CDATA[US Only / 
+Accepts email / 
+Accepts weekend / 
+Converts on CC submit / ]]></description><payout><![CDATA[$42.00]]></payout><unit><![CDATA[per card issued]]></unit><daysleft/><bannercount/><emailcount><![CDATA[8]]></emailcount><textcount/><category><![CDATA[ECommerce,Health / Wellness]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[9565]]></campaignid><name><![CDATA[9565 - Wells Fargo $1,000 Gift Card]]></name><description><![CDATA[US Only
+Accepts email, banner, search, push and link placement
+Accepts weekend
+Converts on email submit
+]]></description><payout><![CDATA[$2.50]]></payout><unit><![CDATA[per email submit]]></unit><daysleft/><bannercount/><emailcount><![CDATA[5]]></emailcount><textcount/><category><![CDATA[Email / Zip Submit,Promo / Survey,Traffic: Display,Traffic: Push]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[9605]]></campaignid><name><![CDATA[9605 - BPS-5 Healthy Blood Pressure Supplement ]]></name><description><![CDATA[US Only / 
+Accepts email / 
+Accepts weekend / 
+Converts on CC submit / ]]></description><payout><![CDATA[$100.00]]></payout><unit><![CDATA[per card issued]]></unit><daysleft/><bannercount/><emailcount><![CDATA[9]]></emailcount><textcount/><category><![CDATA[Health / Wellness]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[9613]]></campaignid><name><![CDATA[9613 - 247 Credit Now]]></name><description><![CDATA[US Only / 
+Accepts email / 
+Accepts weekend / 
+Converts on full form submit / ]]></description><payout><![CDATA[$70.00]]></payout><unit><![CDATA[per action]]></unit><daysleft/><bannercount/><emailcount><![CDATA[3]]></emailcount><textcount/><category><![CDATA[Personal Loan]]></category><geotargeting><![CDATA[All traffic accepted]]></geotargeting></data><data><campaignid><![CDATA[10035]]></campaignid><name><![CDATA[accidentandinjurylegalhelp.com--]]></name><description><![CDATA[US Only / 
+Accepts Email / 
+Accepts Weekend / 
+Converts on single form submit / ]]></description><payout><![CDATA[$18.00]]></payout><unit><![CDATA[per lead]]></unit><daysleft/><bannercount/><emailcount><![CDATA[5]]></emailcount><textcount/><category><![CDATA[Legal]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[10027]]></campaignid><name><![CDATA[Androgen Switch--]]></name><description><![CDATA[US Only / 
+Accepts Email / 
+Accepts Weekend / 
+Converts on CC submit / ]]></description><payout><![CDATA[$76.50]]></payout><unit><![CDATA[per card issued]]></unit><daysleft/><bannercount/><emailcount><![CDATA[6]]></emailcount><textcount/><category><![CDATA[Health / Wellness]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[8175]]></campaignid><name><![CDATA[Auto Credit Express]]></name><description><![CDATA[US Only / 
+Accepts email / 
+Accepts weekend / 
+Converts on 2nd page loan submit / ]]></description><payout><![CDATA[$11.00]]></payout><unit><![CDATA[per action]]></unit><daysleft/><bannercount/><emailcount><![CDATA[3]]></emailcount><textcount/><category><![CDATA[Auto Insurance,Auto Warranty]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[7106]]></campaignid><name><![CDATA[Auto Warranty Value]]></name><description><![CDATA[Weekend is permitted / 
+Accepts email / 
+Converts on 1st page short form submit / 
+
+NO CALIFORNIA. NO EXOTIC VEHICLES. / ]]></description><payout><![CDATA[$18.00]]></payout><unit><![CDATA[per lead]]></unit><daysleft/><bannercount/><emailcount><![CDATA[14]]></emailcount><textcount/><category><![CDATA[Auto Warranty]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[10023]]></campaignid><name><![CDATA[BadCreditLoans.com--]]></name><description><![CDATA[US Only / 
+Accepts Email / 
+Accepts Weekend / 
+Convert on action / ]]></description><payout><![CDATA[$125.00]]></payout><unit><![CDATA[per action]]></unit><daysleft/><bannercount/><emailcount><![CDATA[7]]></emailcount><textcount/><category><![CDATA[Personal Loan]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[10002]]></campaignid><name><![CDATA[Bankruptcy Relief Center--]]></name><description><![CDATA[US Only / 
+Accepts Email / 
+Accepts Weekend / 
+Converts on form submit / ]]></description><payout><![CDATA[$13.50]]></payout><unit><![CDATA[per lead]]></unit><daysleft/><bannercount><![CDATA[4]]></bannercount><emailcount><![CDATA[3]]></emailcount><textcount/><category><![CDATA[Debt Relief]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[10322]]></campaignid><name><![CDATA[Beyond Bright--]]></name><description><![CDATA[US Only / 
+Accepts Email / 
+Accepts Weekend / 
+Converts on CC Submit]]></description><payout><![CDATA[$23.00]]></payout><unit><![CDATA[per card issued]]></unit><daysleft/><bannercount/><emailcount><![CDATA[3]]></emailcount><textcount/><category><![CDATA[ECommerce,Health / Wellness,Holiday -- Christmas / New Year ]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[10025]]></campaignid><name><![CDATA[BioSwitch--]]></name><description><![CDATA[US Only / 
+Accepts Email / 
+Accepts Weekend / 
+Converts on CC submit / ]]></description><payout><![CDATA[$76.50]]></payout><unit><![CDATA[per card issued]]></unit><daysleft/><bannercount/><emailcount><![CDATA[8]]></emailcount><textcount/><category><![CDATA[Health / Wellness]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[9703]]></campaignid><name><![CDATA[BonusMonster (US/CA/UK/AU/NZ/DE/NL)]]></name><description><![CDATA[Accepts US/UK/AU/NZ/CA/DE/NL Traffic
+Accepts Email
+Converts on first page email submit
+Cap: 600 leads per day]]></description><payout><![CDATA[$2.00]]></payout><unit><![CDATA[per email submit]]></unit><daysleft/><bannercount/><emailcount><![CDATA[4]]></emailcount><textcount/><category><![CDATA[* TOP OFFERS *,Gaming / Casino,Multi Geo]]></category><geotargeting><![CDATA[Traffic allowed from: UK/US/AU/NZ/CA]]></geotargeting></data><data><campaignid><![CDATA[10061]]></campaignid><name><![CDATA[BP Optimizer--]]></name><description><![CDATA[Accepts US/UK/CA/AU/NZ
+Accepts Email, Display, Push, SMS traffic
+Accepts weekend
+Converts on CC submit]]></description><payout><![CDATA[$86.00]]></payout><unit><![CDATA[per card issued]]></unit><daysleft/><bannercount/><emailcount><![CDATA[3]]></emailcount><textcount/><category><![CDATA[Health / Wellness]]></category><geotargeting><![CDATA[Traffic allowed from: UK/US/AU/NZ/CA]]></geotargeting></data><data><campaignid><![CDATA[5842]]></campaignid><name><![CDATA[Brighter Loans ]]></name><description><![CDATA[Weekend is permitted / 
+Accepts email / 
+Converts on approved app / ]]></description><payout><![CDATA[$60.00]]></payout><unit><![CDATA[per lead]]></unit><daysleft/><bannercount/><emailcount><![CDATA[7]]></emailcount><textcount/><category><![CDATA[Personal Loan]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[9761]]></campaignid><name><![CDATA[BurstLoan--]]></name><description><![CDATA[Must use a Postback pixel. / 
+--- Traffic Restrictions: 18+, NO Incentivized, co-registration, call center-based traffic, or proxy server traffic. / 
+--- Loan amounts up to $1K / 
+--- Accepted Traffic: Email. Display OK with approval and push traffic / 
+--- Is mobile optimized. / 
+--- Converts on app submit / ]]></description><payout><![CDATA[$49.50]]></payout><unit><![CDATA[per sale]]></unit><daysleft/><bannercount/><emailcount><![CDATA[17]]></emailcount><textcount/><category><![CDATA[Holiday -- Christmas / New Year ,Personal Loan,Traffic: Display,Traffic: Push]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[8380]]></campaignid><name><![CDATA[Business Women Connection (Mon-Fri Drops Only)]]></name><description><![CDATA[US only / 
+250 leads per week / 
+Accepts email / 
+Does not accept weekend traffic - Monday-Friday drops only / 
+Converts on completed application / ]]></description><payout><![CDATA[$10.00]]></payout><unit><![CDATA[per app]]></unit><daysleft/><bannercount/><emailcount><![CDATA[18]]></emailcount><textcount/><category><![CDATA[* TOP OFFERS *,Biz Opp,Jobs / Career]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[9885]]></campaignid><name><![CDATA[CaniBrands--]]></name><description><![CDATA[US Only / 
+Accepts email / 
+Accepts weekend traffic / 
+Converts on valid credit card submit / ]]></description><payout><![CDATA[$27.00]]></payout><unit><![CDATA[per card issued]]></unit><daysleft/><bannercount/><emailcount><![CDATA[7]]></emailcount><textcount/><category><![CDATA[CBD]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[9466]]></campaignid><name><![CDATA[Cardio Clear 7 ]]></name><description><![CDATA[US Only
+Accepts Email
+Accepts Weekend
+Converts on CC submit ]]></description><payout><![CDATA[$60.00]]></payout><unit><![CDATA[per card issued]]></unit><daysleft/><bannercount/><emailcount><![CDATA[7]]></emailcount><textcount/><category><![CDATA[Health / Wellness]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[10390]]></campaignid><name><![CDATA[Caresoles Arthritis Relief Glove--]]></name><description><![CDATA[US Only / 
+Accepts Email / 
+Accepts Weekend / 
+Converts on CC Submit]]></description><payout><![CDATA[$18.00]]></payout><unit><![CDATA[per card issued]]></unit><daysleft/><bannercount/><emailcount><![CDATA[4]]></emailcount><textcount/><category><![CDATA[ECommerce,Health / Wellness]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[10093]]></campaignid><name><![CDATA[Cash Offers 4 Your Home--]]></name><description><![CDATA[US Only / 
+Accepts Email / 
+Accepts Weekend / 
+Converts on lead / ]]></description><payout><![CDATA[$67.50]]></payout><unit><![CDATA[per lead]]></unit><daysleft/><bannercount/><emailcount><![CDATA[7]]></emailcount><textcount/><category><![CDATA[Home / Home Improvement]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[10052]]></campaignid><name><![CDATA[CashRequestOnline.com--]]></name><description><![CDATA[US Only - EXCLUDE: NY, AR, VT, WV, GA, NH, CT, SD / 
+Accepts Emails / 
+Accepts Weekends / 
+Converts on lead / ]]></description><payout><![CDATA[variable commission]]></payout><unit><![CDATA[per lead]]></unit><daysleft/><bannercount/><emailcount><![CDATA[1]]></emailcount><textcount/><category><![CDATA[Personal Loan]]></category><geotargeting><![CDATA[All traffic accepted]]></geotargeting></data><data><campaignid><![CDATA[7954]]></campaignid><name><![CDATA[CashUSA.com]]></name><description><![CDATA[Weekend is permitted / 
+Accepts email and display -- All Display placement must be approved before activating / 
+Converts on funded app / ]]></description><payout><![CDATA[$140.00]]></payout><unit><![CDATA[per funded loan]]></unit><daysleft/><bannercount/><emailcount><![CDATA[11]]></emailcount><textcount/><category><![CDATA[Personal Loan,Traffic: Display]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[7993]]></campaignid><name><![CDATA[Christin Medium--]]></name><description><![CDATA[Monthly cap of 500 leads /
+Weekend is permitted / 
+Accepts email /
+Converts on 1st page submit /]]></description><payout><![CDATA[$2.60]]></payout><unit><![CDATA[per action]]></unit><daysleft/><bannercount/><emailcount><![CDATA[1]]></emailcount><textcount/><category><![CDATA[Psychic / Horoscope]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[10062]]></campaignid><name><![CDATA[Ciscas High Heel Insoles--]]></name><description><![CDATA[US Only
+Accepts email
+Accepts weekends
+Converts on sale]]></description><payout><![CDATA[$25.20]]></payout><unit><![CDATA[per card issued]]></unit><daysleft/><bannercount/><emailcount><![CDATA[3]]></emailcount><textcount/><category><![CDATA[Beauty,ECommerce,Health / Wellness]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[10173]]></campaignid><name><![CDATA[Classified Page Success--]]></name><description><![CDATA[US Only / 
+Accepts Email, Display, Push / 
+Accepts Weekend / 
+Converts on completed action / ]]></description><payout><![CDATA[$72.00]]></payout><unit><![CDATA[per action]]></unit><daysleft/><bannercount/><emailcount><![CDATA[2]]></emailcount><textcount/><category><![CDATA[Jobs / Career]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[10306]]></campaignid><name><![CDATA[Clean Cell--]]></name><description><![CDATA[US Only / 
+Accepts Email / 
+Accepts Weekend / 
+Converts on CC submit / ]]></description><payout><![CDATA[$63.00]]></payout><unit><![CDATA[per card issued]]></unit><daysleft/><bannercount/><emailcount><![CDATA[3]]></emailcount><textcount/><category><![CDATA[Health / Wellness]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[10206]]></campaignid><name><![CDATA[Clean Zone Masks--]]></name><description><![CDATA[US Only / 
+Accepts Email / 
+Accepts Weekend / 
+Converts on CC Submit / 
+]]></description><payout><![CDATA[$12.50]]></payout><unit><![CDATA[per card issued]]></unit><daysleft/><bannercount/><emailcount><![CDATA[8]]></emailcount><textcount/><category><![CDATA[ECommerce,Health / Wellness]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[9301]]></campaignid><name><![CDATA[ClearView (All Countries Except UK/CA)]]></name><description><![CDATA[All Countries Except UK/CA / 
+Accepts email / 
+Accepts weekend traffic / 
+Converts on credit card submits / ]]></description><payout><![CDATA[$40.00]]></payout><unit><![CDATA[per card issued]]></unit><daysleft/><bannercount/><emailcount><![CDATA[2]]></emailcount><textcount/><category><![CDATA[ECommerce,Multi Geo]]></category><geotargeting><![CDATA[Traffic allowed from: Novads OU Offers]]></geotargeting></data><data><campaignid><![CDATA[10039]]></campaignid><name><![CDATA[Coke Fridge Remake--]]></name><description><![CDATA[US only / 
+Accepts email and display / 
+Accepts weekend traffic / 
+Converts on full lead / ]]></description><payout><![CDATA[$2.70]]></payout><unit><![CDATA[per lead]]></unit><daysleft/><bannercount/><emailcount><![CDATA[3]]></emailcount><textcount/><category><![CDATA[* TOP OFFERS *,ECommerce,Promo / Survey]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[9446]]></campaignid><name><![CDATA[Copper Fit Energy Socks--]]></name><description><![CDATA[US Only / 
+Accepts email / 
+Accepts weekend / 
+Converts on sale / ]]></description><payout><![CDATA[$12.50]]></payout><unit><![CDATA[per sale]]></unit><daysleft/><bannercount/><emailcount><![CDATA[5]]></emailcount><textcount/><category><![CDATA[ECommerce]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[9909]]></campaignid><name><![CDATA[Costco Shopper Survey CPL--]]></name><description><![CDATA[US only / 
+Accepts email, email newsletter, display, push, SMS / 
+Accepts Weekend / 
+Converts on lead submit / ]]></description><payout><![CDATA[$2.70]]></payout><unit><![CDATA[per lead]]></unit><daysleft/><bannercount/><emailcount><![CDATA[4]]></emailcount><textcount/><category><![CDATA[Holiday -- Christmas / New Year ,Promo / Survey,Traffic: Display,Traffic: Push,Traffic: SMS ]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[9235]]></campaignid><name><![CDATA[Country Wide Concealed]]></name><description><![CDATA[US Only**Does Not Accept: CA, CO, CT, DE, FL, HI, IL, ME, MD, MA, MI, MN, NH, NJ, NY, OR, PA, RI, SC, WA / 
+Accepts Email / 
+Accepts Weekend Traffic / 
+Converts on a CC purchase / ]]></description><payout><![CDATA[$55.00]]></payout><unit><![CDATA[per card issued]]></unit><daysleft/><bannercount><![CDATA[9]]></bannercount><emailcount><![CDATA[10]]></emailcount><textcount/><category><![CDATA[ECommerce,Legal]]></category><geotargeting><![CDATA[All traffic accepted]]></geotargeting></data><data><campaignid><![CDATA[10097]]></campaignid><name><![CDATA[CVS Wheel CPL--]]></name><description><![CDATA[US Only / 
+Accepts Email, Email Newsletter, Display, Social, Push traffic / 
+Accepts Weekend / 
+Converts on email submit / ]]></description><payout><![CDATA[$1.80]]></payout><unit><![CDATA[per email submit]]></unit><daysleft/><bannercount><![CDATA[1]]></bannercount><emailcount><![CDATA[2]]></emailcount><textcount/><category><![CDATA[Promo / Survey,Traffic: Display]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[10022]]></campaignid><name><![CDATA[CyaBags--]]></name><description><![CDATA[US Only / 
+Email Only / 
+Accepts Weekend / 
+Converts on CC Submit / ]]></description><payout><![CDATA[$41.00]]></payout><unit><![CDATA[per card issued]]></unit><daysleft/><bannercount/><emailcount><![CDATA[6]]></emailcount><textcount/><category><![CDATA[Health / Wellness]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[9355]]></campaignid><name><![CDATA[DermaCorrect Advertorial-- (US/CA)]]></name><description><![CDATA[US/CA Only / 
+Accepts email / 
+Accepts weekend / 
+Converts on sale / ]]></description><payout><![CDATA[$108.00]]></payout><unit><![CDATA[per sale]]></unit><daysleft/><bannercount/><emailcount><![CDATA[16]]></emailcount><textcount/><category><![CDATA[* TOP OFFERS *,Health / Wellness,Multi Geo]]></category><geotargeting><![CDATA[Traffic allowed from: US - CA]]></geotargeting></data><data><campaignid><![CDATA[9827]]></campaignid><name><![CDATA[DO NOT DROP iHeadphones--(US/CA/AU/NZ/UK/FR/DE/BE)]]></name><description><![CDATA[US/CA/AU/NZ/UK/FR/DE/BE Traffic Accepted / 
+Accepts Email, Display, Push, SMS, Search, Native / 
+Accepts weekend / 
+Converts on sale / ]]></description><payout><![CDATA[$44.00]]></payout><unit><![CDATA[per sale]]></unit><daysleft/><bannercount/><emailcount><![CDATA[2]]></emailcount><textcount/><category><![CDATA[ECommerce,Multi Geo,Traffic: Display,Traffic: Push,Traffic: Search,Traffic: SMS ]]></category><geotargeting><![CDATA[Traffic allowed from: US/CA/AU/NZ/UK/FR/DE/BE]]></geotargeting></data><data><campaignid><![CDATA[9615]]></campaignid><name><![CDATA[Easy Solar Savings-- (No Sunday Drops)]]></name><description><![CDATA[Monday-Saturday drops only. / 
+US Only / 
+Accepts email / 
+Converts on lead submit / ]]></description><payout><![CDATA[$18.00]]></payout><unit><![CDATA[per lead]]></unit><daysleft/><bannercount/><emailcount><![CDATA[22]]></emailcount><textcount/><category><![CDATA[Home / Home Improvement,Solar]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[9751]]></campaignid><name><![CDATA[Easyway Advance--]]></name><description><![CDATA[Must use a Postback pixel.
+--- Traffic Restrictions: 18+, NO Incentivized, co-registration, call center-based traffic, or proxy server traffic.
+--- Loan amounts up to $1K
+--- Accepted Traffic: Email. Display OK with approval and push traffic 
+--- Is mobile optimized. 
+--- Converts on valid 2nd page form submit.]]></description><payout><![CDATA[$49.50]]></payout><unit><![CDATA[per lead]]></unit><daysleft/><bannercount/><emailcount><![CDATA[17]]></emailcount><textcount/><category><![CDATA[Holiday -- Christmas / New Year ,Personal Loan,Traffic: Push]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[9787]]></campaignid><name><![CDATA[Emotional Support Animal Letter--]]></name><description><![CDATA[US Only**Does Not Accept: AK, CO, HI, IL, IA, KS, LA, ME, MS, MO, NE, ND, NH, OK, SD, VT, WY / 
+Accepts Email / 
+Accepts Weekend Traffic / 
+Converts on a CC purchase / ]]></description><payout><![CDATA[$72.00]]></payout><unit><![CDATA[per card issued]]></unit><daysleft/><bannercount/><emailcount><![CDATA[3]]></emailcount><textcount/><category><![CDATA[Biz Opp,ECommerce]]></category><geotargeting><![CDATA[All traffic accepted]]></geotargeting></data><data><campaignid><![CDATA[9758]]></campaignid><name><![CDATA[EncoreLoan--]]></name><description><![CDATA[Must use a Postback pixel. / 
+--- Traffic Restrictions: 18+, NO Incentivized, co-registration, call center-based traffic, or proxy server traffic. / 
+--- Loan amounts up to $1K / 
+--- Accepted Traffic: Email. Display OK with approval and push traffic / 
+--- Is mobile optimized. / 
+--- Converts on valid 2nd page form submit. / ]]></description><payout><![CDATA[$49.50]]></payout><unit><![CDATA[per lead]]></unit><daysleft/><bannercount/><emailcount><![CDATA[26]]></emailcount><textcount/><category><![CDATA[Holiday -- Christmas / New Year ,Personal Loan,Traffic: Display]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[10046]]></campaignid><name><![CDATA[Everlean--]]></name><description><![CDATA[US only / 
+Accepts email / 
+Accepts weekend / 
+Converts on CC submit / 
+]]></description><payout><![CDATA[$76.50]]></payout><unit><![CDATA[per card issued]]></unit><daysleft/><bannercount/><emailcount><![CDATA[2]]></emailcount><textcount/><category><![CDATA[Diet / Weight Loss,Health / Wellness]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[9478]]></campaignid><name><![CDATA[FightFast 5n1 EDC ]]></name><description><![CDATA[US Only / 
+Accepts email / 
+Accepts weekend / 
+Converts on credit card purchase / ]]></description><payout><![CDATA[$10.00]]></payout><unit><![CDATA[per card issued]]></unit><daysleft/><bannercount/><emailcount><![CDATA[2]]></emailcount><textcount/><category><![CDATA[ECommerce,Health / Wellness]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[9480]]></campaignid><name><![CDATA[FightFast Pyro Plasma Torch ]]></name><description><![CDATA[US Only / 
+Accepts email / 
+Accepts weekend / 
+Converts on credit card purchase / ]]></description><payout><![CDATA[$10.00]]></payout><unit><![CDATA[per card issued]]></unit><daysleft/><bannercount/><emailcount><![CDATA[2]]></emailcount><textcount/><category><![CDATA[ECommerce]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[9479]]></campaignid><name><![CDATA[FightFast Striker Speed Blade ]]></name><description><![CDATA[US Only / 
+Accepts email / 
+Accepts weekend / 
+Converts on credit card purchase / ]]></description><payout><![CDATA[$10.00]]></payout><unit><![CDATA[per card issued]]></unit><daysleft/><bannercount/><emailcount><![CDATA[2]]></emailcount><textcount/><category><![CDATA[ECommerce]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[9753]]></campaignid><name><![CDATA[First Choice Auto Loan--]]></name><description><![CDATA[Must use a Postback pixel.
+--- Traffic Restrictions: 18+, NO Incentivized, co-registration, call center-based traffic, or proxy server traffic.
+--- Loan amounts up to $1K
+--- Accepted Traffic: Email. Display OK with approval and push traffic 
+--- Is mobile optimized. 
+--- Converts on valid 2nd page form submit.]]></description><payout><![CDATA[$11.00]]></payout><unit><![CDATA[per action]]></unit><daysleft/><bannercount/><emailcount><![CDATA[14]]></emailcount><textcount/><category><![CDATA[Holiday -- Christmas / New Year ,Personal Loan,Traffic: Display,Traffic: Push]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[10064]]></campaignid><name><![CDATA[First Digital Card--]]></name><description><![CDATA[US Only / 
+Accepts email / 
+Accepts weekend traffic / 
+Converts on a full lead submit / ]]></description><payout><![CDATA[$14.40]]></payout><unit><![CDATA[per lead]]></unit><daysleft/><bannercount/><emailcount><![CDATA[3]]></emailcount><textcount/><category><![CDATA[Credit Card]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[9906]]></campaignid><name><![CDATA[FIT Card--]]></name><description><![CDATA[US Only / 
+Accepts Email / 
+Accepts Weekend / 
+Converts on Approved Application / ]]></description><payout><![CDATA[$27.00]]></payout><unit><![CDATA[per approved application]]></unit><daysleft/><bannercount/><emailcount><![CDATA[4]]></emailcount><textcount/><category><![CDATA[Credit Card]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[9883]]></campaignid><name><![CDATA[Fit Mastercard--]]></name><description><![CDATA[US Only / 
+Accepts email / 
+Accepts weekend traffic / 
+Converts on a full lead submit / ]]></description><payout><![CDATA[$23.00]]></payout><unit><![CDATA[per lead]]></unit><daysleft/><bannercount/><emailcount><![CDATA[8]]></emailcount><textcount/><category><![CDATA[Credit Card]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[9566]]></campaignid><name><![CDATA[Free Tactical Flashlight V2--]]></name><description><![CDATA[US Only / 
+Accepts email / 
+Accepts weekend / 
+Converts on purchase / ]]></description><payout><![CDATA[$10.00]]></payout><unit><![CDATA[per sale]]></unit><daysleft/><bannercount/><emailcount><![CDATA[5]]></emailcount><textcount/><category><![CDATA[ECommerce]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[10099]]></campaignid><name><![CDATA[FreeScore360 Display--(Display Only)]]></name><description><![CDATA[US Only / 
+Accepts Display Traffic Only / 
+Accepts Weekend Traffic / 
+Converts on Action / ]]></description><payout><![CDATA[$40.50]]></payout><unit><![CDATA[per action]]></unit><daysleft/><bannercount><![CDATA[13]]></bannercount><emailcount/><textcount/><category><![CDATA[Credit Report,Traffic: Display]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[10098]]></campaignid><name><![CDATA[FreeScore360 Push--(Push Traffic Only)]]></name><description><![CDATA[US Only / 
+Accepts Push Only / 
+Accepts Weekend Traffic / 
+Converts on action / ]]></description><payout><![CDATA[$36.00]]></payout><unit><![CDATA[per action]]></unit><daysleft/><bannercount><![CDATA[12]]></bannercount><emailcount/><textcount/><category><![CDATA[Credit Report,Traffic: Push]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[9745]]></campaignid><name><![CDATA[Get a Year of Disney Plus-- ]]></name><description><![CDATA[US Only / 
+Accepts email, banner, search, push and link placement / 
+Accepts weekend / 
+Converts on email submit / ]]></description><payout><![CDATA[$2.50]]></payout><unit><![CDATA[per email submit]]></unit><daysleft/><bannercount/><emailcount><![CDATA[5]]></emailcount><textcount/><category><![CDATA[Holiday -- Christmas / New Year ,Traffic: Display,Traffic: Search]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[10053]]></campaignid><name><![CDATA[GetFundsAsap.com--]]></name><description><![CDATA[US Only - EXCLUDE: NY, AR, VT, WV, GA, NH, CT, SD / 
+Accepts Emails / 
+Accepts Weekends / 
+Converts on lead / ]]></description><payout><![CDATA[variable commission]]></payout><unit><![CDATA[per lead]]></unit><daysleft/><bannercount/><emailcount><![CDATA[1]]></emailcount><textcount/><category><![CDATA[Personal Loan]]></category><geotargeting><![CDATA[All traffic accepted]]></geotargeting></data><data><campaignid><![CDATA[9948]]></campaignid><name><![CDATA[GetMyFreeScores--]]></name><description><![CDATA[Weekend permitted / 
+US Only / 
+Accepts email / 
+Converts on form submit / ]]></description><payout><![CDATA[$50.00]]></payout><unit><![CDATA[per lead]]></unit><daysleft/><bannercount/><emailcount><![CDATA[11]]></emailcount><textcount/><category><![CDATA[Credit Report]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[9760]]></campaignid><name><![CDATA[GrooveLoan--]]></name><description><![CDATA[Must use a Postback pixel. / 
+--- Traffic Restrictions: 18+, NO Incentivized, co-registration, call center-based traffic, or proxy server traffic. / 
+--- Loan amounts up to $1K / 
+--- Accepted Traffic: Email. Display OK with approval and push traffic / 
+--- Is mobile optimized. / 
+--- Converts on valid 2nd page form submit. / ]]></description><payout><![CDATA[$49.50]]></payout><unit><![CDATA[per lead]]></unit><daysleft/><bannercount/><emailcount><![CDATA[22]]></emailcount><textcount/><category><![CDATA[Holiday -- Christmas / New Year ,Personal Loan,Traffic: Display,Traffic: Push]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[10031]]></campaignid><name><![CDATA[Heal-n-Soothe--]]></name><description><![CDATA[US Only / 
+Accepts Email / 
+Accepts Weekend / 
+Converts on CC submit / ]]></description><payout><![CDATA[$60.00]]></payout><unit><![CDATA[per card issued]]></unit><daysleft/><bannercount/><emailcount><![CDATA[19]]></emailcount><textcount/><category><![CDATA[* TOP OFFERS *,Health / Wellness]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[9057]]></campaignid><name><![CDATA[Holiday Loan USA--]]></name><description><![CDATA[US Only / 
+Accepts Email / 
+Accepts Weekend Traffic / 
+Converts on Full Form Submit / ]]></description><payout><![CDATA[$54.00]]></payout><unit><![CDATA[per action]]></unit><daysleft/><bannercount/><emailcount><![CDATA[4]]></emailcount><textcount/><category><![CDATA[Holiday -- Christmas / New Year ,Personal Loan]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[9914]]></campaignid><name><![CDATA[Home Office Work--]]></name><description><![CDATA[US Only / 
+Accepts Email / 
+Accepts Weekends / 
+Converts on lead / ]]></description><payout><![CDATA[$1.10]]></payout><unit><![CDATA[per lead]]></unit><daysleft/><bannercount/><emailcount><![CDATA[6]]></emailcount><textcount/><category><![CDATA[Jobs / Career]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[9272]]></campaignid><name><![CDATA[InstaHard--]]></name><description><![CDATA[US Only, does not accept California /
+Accepts Email / 
+Accepts Weekend Traffic / 
+Converts on a credit card purchase / ]]></description><payout><![CDATA[$100.00]]></payout><unit><![CDATA[per card issued]]></unit><daysleft/><bannercount/><emailcount><![CDATA[61]]></emailcount><textcount/><category><![CDATA[* TOP OFFERS *,Male Enhancement]]></category><geotargeting><![CDATA[All traffic accepted]]></geotargeting></data><data><campaignid><![CDATA[5527]]></campaignid><name><![CDATA[International Clicks]]></name><description/><payout><![CDATA[$0.00]]></payout><unit><![CDATA[per lead]]></unit><daysleft/><bannercount/><emailcount/><textcount/><category><![CDATA[Misc]]></category><geotargeting><![CDATA[All traffic accepted]]></geotargeting></data><data><campaignid><![CDATA[9735]]></campaignid><name><![CDATA[iPhone 11 Pro-- [aws]]]></name><description><![CDATA[US Only / 
+Accepts Email / 
+Accepts Weekend / 
+Converts per lead / ]]></description><payout><![CDATA[$2.70]]></payout><unit><![CDATA[per lead]]></unit><daysleft/><bannercount/><emailcount><![CDATA[3]]></emailcount><textcount/><category><![CDATA[Misc]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[10433]]></campaignid><name><![CDATA[iPhone 12 Pro--]]></name><description><![CDATA[US Only / 
+Accepts Email / 
+Accepts Weekends / 
+Converts on completed registration form]]></description><payout><![CDATA[$2.70]]></payout><unit><![CDATA[per lead]]></unit><daysleft/><bannercount/><emailcount><![CDATA[2]]></emailcount><textcount/><category><![CDATA[Promo / Survey]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[9026]]></campaignid><name><![CDATA[Joint Renew]]></name><description><![CDATA[US Only
+Accepts email display and native traffic
+Accepts weekend
+Converts on CC submit]]></description><payout><![CDATA[$90.00]]></payout><unit><![CDATA[per card issued]]></unit><daysleft/><bannercount/><emailcount><![CDATA[6]]></emailcount><textcount/><category><![CDATA[Health / Wellness,Traffic: Display]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[10347]]></campaignid><name><![CDATA[KETO Body Trim Advertorial--]]></name><description><![CDATA[US Only / 
+Accepts Email and Display / 
+Accepts Weekends / 
+Converts on cc submit]]></description><payout><![CDATA[$130.00]]></payout><unit><![CDATA[per card issued]]></unit><daysleft/><bannercount/><emailcount><![CDATA[19]]></emailcount><textcount/><category><![CDATA[* TOP OFFERS *,Diet / Weight Loss,Keto,Traffic: Display]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[9097]]></campaignid><name><![CDATA[Keto XR--]]></name><description><![CDATA[US only / 
+Accepts email / 
+Accepts weekend traffic / 
+Converts on sale / 
+]]></description><payout><![CDATA[$121.00]]></payout><unit><![CDATA[per sale]]></unit><daysleft/><bannercount/><emailcount><![CDATA[12]]></emailcount><textcount/><category><![CDATA[* TOP OFFERS *,Diet / Weight Loss,Keto]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[9708]]></campaignid><name><![CDATA[Kohls $500 Gift Card]]></name><description><![CDATA[US Only / 
+Accepts email, banner, search, push and link placement / 
+Accepts weekend / 
+Converts on email submit / ]]></description><payout><![CDATA[$2.50]]></payout><unit><![CDATA[per email submit]]></unit><daysleft/><bannercount/><emailcount><![CDATA[6]]></emailcount><textcount/><category><![CDATA[Holiday -- Christmas / New Year ,Promo / Survey]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[9881]]></campaignid><name><![CDATA[Kohls Shopper Survey CPL--]]></name><description><![CDATA[US Only / 
+Accepts email, email newsletter, display, push, SMS / 
+Accepts weekend traffic / 
+Converts on email submit / ]]></description><payout><![CDATA[$2.70]]></payout><unit><![CDATA[per email submit]]></unit><daysleft/><bannercount/><emailcount><![CDATA[7]]></emailcount><textcount/><category><![CDATA[Holiday -- Christmas / New Year ,Promo / Survey,Traffic: Display,Traffic: Push,Traffic: SMS ]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[10048]]></campaignid><name><![CDATA[KwikerLoan EXCLUSIVE--]]></name><description><![CDATA[US only / 
+Accepts email / 
+Accepts weekend / 
+Converts on full application submit / ]]></description><payout><![CDATA[$54.00]]></payout><unit><![CDATA[per app]]></unit><daysleft/><bannercount/><emailcount><![CDATA[8]]></emailcount><textcount/><category><![CDATA[iDrive Exclusives,Personal Loan]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[9945]]></campaignid><name><![CDATA[Lawsuit Winning: Zantac EXCLUSIVE--]]></name><description><![CDATA[US Only / 
+Accepts email / 
+Accepts weekend traffic / 
+Converts on completed application / ]]></description><payout><![CDATA[$27.00]]></payout><unit><![CDATA[per action]]></unit><daysleft/><bannercount/><emailcount><![CDATA[3]]></emailcount><textcount/><category><![CDATA[iDrive Exclusives,Legal]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[9953]]></campaignid><name><![CDATA[Lighting Fast Charging Cable--]]></name><description><![CDATA[US Only / 
+Accepts email / 
+Accepts weekend traffic / 
+Converts on sale / ]]></description><payout><![CDATA[$22.50]]></payout><unit><![CDATA[per sale]]></unit><daysleft/><bannercount/><emailcount><![CDATA[1]]></emailcount><textcount/><category><![CDATA[ECommerce]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[5528]]></campaignid><name><![CDATA[List Management Expense]]></name><description/><payout><![CDATA[$0.00]]></payout><unit><![CDATA[per lead]]></unit><daysleft/><bannercount/><emailcount/><textcount/><category><![CDATA[Misc]]></category><geotargeting><![CDATA[All traffic accepted]]></geotargeting></data><data><campaignid><![CDATA[10075]]></campaignid><name><![CDATA[LocalFlirtBook1-- (ALL COUNTRIES)]]></name><description><![CDATA[All Countries / 
+Accepts email / 
+Accepts weekend / 
+Converts on lead / 
+CAP: 100 leads daily / ]]></description><payout><![CDATA[$2.70]]></payout><unit><![CDATA[per lead]]></unit><daysleft/><bannercount/><emailcount><![CDATA[2]]></emailcount><textcount/><category><![CDATA[Dating,Multi Geo]]></category><geotargeting><![CDATA[Traffic allowed from: ALL COUNTRIES]]></geotargeting></data><data><campaignid><![CDATA[10076]]></campaignid><name><![CDATA[LocalFlirtBook2-- (ALL COUNTRIES)]]></name><description><![CDATA[All Countries / 
+Accepts email / 
+Accepts weekend / 
+Converts on lead / 
+CAP: 100 leads daily / ]]></description><payout><![CDATA[$2.70]]></payout><unit><![CDATA[per lead]]></unit><daysleft/><bannercount/><emailcount><![CDATA[2]]></emailcount><textcount/><category><![CDATA[Dating,Multi Geo]]></category><geotargeting><![CDATA[Traffic allowed from: ALL COUNTRIES]]></geotargeting></data><data><campaignid><![CDATA[9961]]></campaignid><name><![CDATA[MacBook 2019--]]></name><description><![CDATA[US Only / 
+Accepts Email / 
+Accepts Weekend / 
+Converts on email submit / ]]></description><payout><![CDATA[$2.50]]></payout><unit><![CDATA[per email submit]]></unit><daysleft/><bannercount/><emailcount><![CDATA[2]]></emailcount><textcount/><category><![CDATA[Promo / Survey]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[9959]]></campaignid><name><![CDATA[Madden 20--]]></name><description><![CDATA[US Only / 
+Accepts Email / 
+Accepts Weekend / 
+Converts on email submit / ]]></description><payout><![CDATA[$2.50]]></payout><unit><![CDATA[per email submit]]></unit><daysleft/><bannercount/><emailcount><![CDATA[2]]></emailcount><textcount/><category><![CDATA[Gaming / Casino,Promo / Survey]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[9756]]></campaignid><name><![CDATA[MaxCarLoan--]]></name><description><![CDATA[Must use a Postback pixel.
+--- Traffic Restrictions: 18+, NO Incentivized, co-registration, call center-based traffic, or proxy server traffic.
+--- Loan amounts up to $1K
+--- Accepted Traffic: Email. Display OK with approval and push traffic 
+--- Is mobile optimized. 
+--- Converts on valid 2nd page form submit.]]></description><payout><![CDATA[$11.00]]></payout><unit><![CDATA[per lead]]></unit><daysleft/><bannercount/><emailcount><![CDATA[13]]></emailcount><textcount/><category><![CDATA[Personal Loan,Traffic: Display,Traffic: Push]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[9754]]></campaignid><name><![CDATA[MaxLoan365--]]></name><description><![CDATA[Must use a Postback pixel.
+--- Traffic Restrictions: 18+, NO Incentivized, co-registration, call center-based traffic, or proxy server traffic.
+--- Loan amounts up to $1K
+--- Accepted Traffic: Email. Display OK with approval and push traffic 
+--- Is mobile optimized. 
+--- Converts on valid 2nd page form submit.]]></description><payout><![CDATA[$49.50]]></payout><unit><![CDATA[per lead]]></unit><daysleft/><bannercount/><emailcount><![CDATA[25]]></emailcount><textcount/><category><![CDATA[Holiday -- Christmas / New Year ,Personal Loan,Traffic: Display,Traffic: Push]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[8835]]></campaignid><name><![CDATA[Micro Touch Solo-- ]]></name><description><![CDATA[US Only / 
+Accepts Email / 
+Accepts Weekend Traffic / 
+converts on Sale / ]]></description><payout><![CDATA[$14.50]]></payout><unit><![CDATA[per sale]]></unit><daysleft/><bannercount/><emailcount><![CDATA[7]]></emailcount><textcount/><category><![CDATA[Beauty,Holiday -- Christmas / New Year ]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[10055]]></campaignid><name><![CDATA[Midweekpay.com--]]></name><description><![CDATA[US Only - EXCLUDE: NY, AR, VT, WV, GA, NH, CT, SD / 
+Accepts Emails / 
+Accepts Weekends / 
+Converts on lead / ]]></description><payout><![CDATA[variable commission]]></payout><unit><![CDATA[per lead]]></unit><daysleft/><bannercount/><emailcount><![CDATA[1]]></emailcount><textcount/><category><![CDATA[Personal Loan]]></category><geotargeting><![CDATA[All traffic accepted]]></geotargeting></data><data><campaignid><![CDATA[9796]]></campaignid><name><![CDATA[Mindinsole--]]></name><description><![CDATA[US Only / 
+Accepts Email / 
+Accepts Weekend Traffic / 
+Converts on Credit Card Purchase / ]]></description><payout><![CDATA[$31.00]]></payout><unit><![CDATA[per card issued]]></unit><daysleft/><bannercount/><emailcount><![CDATA[2]]></emailcount><textcount/><category><![CDATA[ECommerce]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[10058]]></campaignid><name><![CDATA[MONEYAIDS.com--]]></name><description><![CDATA[US Only - EXCLUDE: NY, AR, VT, WV, GA, NH, CT, SD / 
+Accepts Emails / 
+Accepts Weekends / 
+Converts on lead / ]]></description><payout><![CDATA[variable commission]]></payout><unit><![CDATA[per lead]]></unit><daysleft/><bannercount/><emailcount><![CDATA[1]]></emailcount><textcount/><category><![CDATA[Personal Loan]]></category><geotargeting><![CDATA[All traffic accepted]]></geotargeting></data><data><campaignid><![CDATA[9954]]></campaignid><name><![CDATA[MoneyTips Elite--No Sunday Drops]]></name><description><![CDATA[US only / 
+Accepts email and display / 
+Accepts Saturday traffic / 
+Converts on completed form / ]]></description><payout><![CDATA[$29.00]]></payout><unit><![CDATA[per lead]]></unit><daysleft/><bannercount/><emailcount><![CDATA[5]]></emailcount><textcount/><category><![CDATA[Credit Report]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[9916]]></campaignid><name><![CDATA[My Home Cash Club text--]]></name><description><![CDATA[US only / 
+Accepts email / 
+Accepts weekend traffic / 
+Converts on sale / ]]></description><payout><![CDATA[$63.00]]></payout><unit><![CDATA[per sale]]></unit><daysleft/><bannercount/><emailcount><![CDATA[4]]></emailcount><textcount/><category><![CDATA[Biz Opp]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[9917]]></campaignid><name><![CDATA[My Home Cash Club video--]]></name><description><![CDATA[US only / 
+Accepts email / 
+Accepts weekend traffic / 
+Converts on sale / ]]></description><payout><![CDATA[$63.00]]></payout><unit><![CDATA[per sale]]></unit><daysleft/><bannercount/><emailcount><![CDATA[4]]></emailcount><textcount/><category><![CDATA[Biz Opp]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[10057]]></campaignid><name><![CDATA[MyCreditAdvance.com--]]></name><description><![CDATA[US Only - EXCLUDE: NY, AR, VT, WV, GA, NH, CT, SD
+Accepts Emails / 
+Accepts Weekends / 
+Converts on lead / ]]></description><payout><![CDATA[variable commission]]></payout><unit><![CDATA[per lead]]></unit><daysleft/><bannercount/><emailcount><![CDATA[1]]></emailcount><textcount/><category><![CDATA[Personal Loan]]></category><geotargeting><![CDATA[All traffic accepted]]></geotargeting></data><data><campaignid><![CDATA[9747]]></campaignid><name><![CDATA[Net Loan Express--]]></name><description><![CDATA[Must use a Postback pixel.
+--- Traffic Restrictions: 18+, NO Incentivized, co-registration, call center-based traffic, or proxy server traffic.
+--- Loan amounts up to $1K
+--- Accepted Traffic: Email. Display OK with approval and push traffic 
+--- Is mobile optimized. 
+--- Converts on valid 2nd page form submit.]]></description><payout><![CDATA[$49.50]]></payout><unit><![CDATA[per lead]]></unit><daysleft/><bannercount/><emailcount><![CDATA[22]]></emailcount><textcount/><category><![CDATA[Holiday -- Christmas / New Year ,Personal Loan,Traffic: Display,Traffic: Push]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[9748]]></campaignid><name><![CDATA[Next Payday Advance-- ]]></name><description><![CDATA[Must use a Postback pixel.
+--- Traffic Restrictions: 18+, NO Incentivized, co-registration, call center-based traffic, or proxy server traffic.
+--- Loan amounts up to $1K
+--- Accepted Traffic: Email. Display OK with approval and push traffic 
+--- Is mobile optimized. 
+--- Converts on valid 2nd page form submit.]]></description><payout><![CDATA[$49.50]]></payout><unit><![CDATA[per lead]]></unit><daysleft/><bannercount/><emailcount><![CDATA[32]]></emailcount><textcount/><category><![CDATA[Holiday -- Christmas / New Year ,Personal Loan,Traffic: Display]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[9969]]></campaignid><name><![CDATA[Night Vision Cap--]]></name><description><![CDATA[US only / 
+Accepts email / 
+Accepts weekend / 
+Converts on cc submit / ]]></description><payout><![CDATA[$9.00]]></payout><unit><![CDATA[per card issued]]></unit><daysleft/><bannercount/><emailcount><![CDATA[3]]></emailcount><textcount/><category><![CDATA[ECommerce]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[9938]]></campaignid><name><![CDATA[NO NEW DROPS Amaranth Oil--]]></name><description><![CDATA[US Only / 
+Accepts Email / 
+Accepts Weekend / 
+Converts on Credit Card Purchase / 
+Cap of 20 leads per subID / ]]></description><payout><![CDATA[$72.00]]></payout><unit><![CDATA[per card issued]]></unit><daysleft/><bannercount/><emailcount><![CDATA[1]]></emailcount><textcount/><category><![CDATA[Health / Wellness]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[9940]]></campaignid><name><![CDATA[NO NEW DROPS Black Cumin Oil Rejuvenate--]]></name><description><![CDATA[US Only / 
+Accepts Email / 
+Accepts Weekend / 
+Converts on Credit Card Purchase / 
+Cap of 20 leads per subID / ]]></description><payout><![CDATA[$72.00]]></payout><unit><![CDATA[per card issued]]></unit><daysleft/><bannercount/><emailcount><![CDATA[1]]></emailcount><textcount/><category><![CDATA[Health / Wellness]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[9741]]></campaignid><name><![CDATA[OMG Sweeps--]]></name><description><![CDATA[250 leads/day / 
+US only / 
+Accepts email / 
+Accepts weekend / 
+Converts on first lead submit / ]]></description><payout><![CDATA[$2.25]]></payout><unit><![CDATA[per lead]]></unit><daysleft/><bannercount/><emailcount><![CDATA[7]]></emailcount><textcount/><category><![CDATA[Promo / Survey]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[10045]]></campaignid><name><![CDATA[Padre Psychic-- (US/CA)]]></name><description><![CDATA[Monthly cap of 1000 leads / 
+US/CA only / 
+Accepts Email / 
+Accepts Weekends / 
+Converts on lead / ]]></description><payout><![CDATA[$2.60]]></payout><unit><![CDATA[per lead]]></unit><daysleft/><bannercount/><emailcount><![CDATA[1]]></emailcount><textcount/><category><![CDATA[* TOP OFFERS *,Multi Geo,Psychic / Horoscope]]></category><geotargeting><![CDATA[Traffic allowed from: US - CA]]></geotargeting></data><data><campaignid><![CDATA[9607]]></campaignid><name><![CDATA[Pass Your Test]]></name><description><![CDATA[US Only / 
+Accepts email / 
+Accepts weekend traffic / 
+Converts on CC submit / ]]></description><payout><![CDATA[$25.00]]></payout><unit><![CDATA[per card issued]]></unit><daysleft/><bannercount/><emailcount><![CDATA[5]]></emailcount><textcount/><category><![CDATA[Health / Wellness]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[9563]]></campaignid><name><![CDATA[Paypal $1,000 Gift Card]]></name><description><![CDATA[US Only / 
+Accepts email, banner, search, push and link placement / 
+Accepts weekend / 
+Converts on email submit / 
+]]></description><payout><![CDATA[$2.50]]></payout><unit><![CDATA[per email submit]]></unit><daysleft/><bannercount/><emailcount><![CDATA[11]]></emailcount><textcount/><category><![CDATA[Email / Zip Submit,Holiday -- Christmas / New Year ,Promo / Survey,Traffic: Display,Traffic: Push]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[10056]]></campaignid><name><![CDATA[Payzonno.com--]]></name><description><![CDATA[US Only - EXCLUDE: NY, AR, VT, WV, GA, NH, CT, SD / 
+Accepts Emails / 
+Accepts Weekends / 
+Converts on lead / ]]></description><payout><![CDATA[variable commission]]></payout><unit><![CDATA[per lead]]></unit><daysleft/><bannercount/><emailcount><![CDATA[1]]></emailcount><textcount/><category><![CDATA[Personal Loan]]></category><geotargeting><![CDATA[All traffic accepted]]></geotargeting></data><data><campaignid><![CDATA[10332]]></campaignid><name><![CDATA[PowerVolt]]></name><description><![CDATA[US Only / 
+Accepts Email, Display, SMS / 
+Accepts Weekends / 
+Converts on CC Submit]]></description><payout><![CDATA[$50.00]]></payout><unit><![CDATA[per card issued]]></unit><daysleft/><bannercount/><emailcount><![CDATA[15]]></emailcount><textcount/><category><![CDATA[* TOP OFFERS *,ECommerce]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[10054]]></campaignid><name><![CDATA[Primetimeadvance--]]></name><description><![CDATA[US Only - EXCLUDE: NY, AR, VT, WV, GA, NH, CT, SD / 
+Accepts Emails / 
+Accepts Weekends / 
+Converts on lead / ]]></description><payout><![CDATA[variable commission]]></payout><unit><![CDATA[per lead]]></unit><daysleft/><bannercount/><emailcount><![CDATA[1]]></emailcount><textcount/><category><![CDATA[Personal Loan]]></category><geotargeting><![CDATA[All traffic accepted]]></geotargeting></data><data><campaignid><![CDATA[9879]]></campaignid><name><![CDATA[QVC Shopper Survey CPL --]]></name><description><![CDATA[US Only / 
+Accepts email, email newsletter, display, push, SMS / 
+Accepts weekend traffic / 
+Converts on email submit / ]]></description><payout><![CDATA[$2.70]]></payout><unit><![CDATA[per email submit]]></unit><daysleft/><bannercount/><emailcount><![CDATA[4]]></emailcount><textcount/><category><![CDATA[Promo / Survey,Traffic: Display,Traffic: Push,Traffic: SMS ]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[9518]]></campaignid><name><![CDATA[RateZip Mortgage Refinance (No Weekend Drops)]]></name><description><![CDATA[US Only / 
+Accepts email / 
+Does not accept weekend / 
+Converts on a full form submit / ]]></description><payout><![CDATA[$45.00]]></payout><unit><![CDATA[per action]]></unit><daysleft/><bannercount/><emailcount><![CDATA[6]]></emailcount><textcount/><category><![CDATA[Mortgage / Refinance]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[9750]]></campaignid><name><![CDATA[ReadyLoanUSA EXCLUSIVE--]]></name><description><![CDATA[Must use a Postback pixel.
+--- Traffic Restrictions: 18+, NO Incentivized, co-registration, call center-based traffic, or proxy server traffic.
+--- Loan amounts up to $1K
+--- Accepted Traffic: Email. Display OK with approval and push traffic 
+--- Is mobile optimized. 
+--- Converts on valid 2nd page form submit.]]></description><payout><![CDATA[$49.50]]></payout><unit><![CDATA[per lead]]></unit><daysleft/><bannercount><![CDATA[6]]></bannercount><emailcount><![CDATA[46]]></emailcount><textcount/><category><![CDATA[Holiday -- Christmas / New Year ,iDrive Exclusives,Personal Loan,Traffic: Display,Traffic: Push]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[8142]]></campaignid><name><![CDATA[Refi Rate Guide Tiered (Approved Only)No Sunday Drops [aws] ]]></name><description><![CDATA[Approved subIDs only / 
+Accepts email and display / 
+Accepts Saturday traffic / 
+Converts on 4th page application submit / 
+US only / 
+
+Filters: / 
+No poor credit / 
+LTV up to 100% / ]]></description><payout><![CDATA[$50.00]]></payout><unit><![CDATA[per lead]]></unit><daysleft/><bannercount/><emailcount><![CDATA[6]]></emailcount><textcount/><category><![CDATA[Mortgage / Refinance,Traffic: Display]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[9904]]></campaignid><name><![CDATA[Reflex Mastercard--]]></name><description><![CDATA[US Only / 
+Accepts Email / 
+Accepts Weekend / 
+Converts on Approved Application / ]]></description><payout><![CDATA[$32.00]]></payout><unit><![CDATA[per approved application]]></unit><daysleft/><bannercount/><emailcount><![CDATA[4]]></emailcount><textcount/><category><![CDATA[Credit Card]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[9039]]></campaignid><name><![CDATA[Rotorazer Saw--]]></name><description><![CDATA[US only / 
+Accepts email / 
+Accepts weekend traffic / 
+Converts on a sale / ]]></description><payout><![CDATA[$68.00]]></payout><unit><![CDATA[per sale]]></unit><daysleft/><bannercount/><emailcount><![CDATA[11]]></emailcount><textcount/><category><![CDATA[ECommerce,Holiday -- Christmas / New Year ]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[10167]]></campaignid><name><![CDATA[SafeBreath Pro--]]></name><description><![CDATA[US Only / 
+Accepts Email / 
+Accepts Weekend / 
+Converts on CC Submit / ]]></description><payout><![CDATA[$56.00]]></payout><unit><![CDATA[per card issued]]></unit><daysleft/><bannercount/><emailcount><![CDATA[6]]></emailcount><textcount/><category><![CDATA[ECommerce]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[10067]]></campaignid><name><![CDATA[Samsung S20--]]></name><description><![CDATA[US only / 
+Accepts email / 
+Accepts weekend traffic / 
+Converts on full lead / ]]></description><payout><![CDATA[$2.70]]></payout><unit><![CDATA[per lead]]></unit><daysleft/><bannercount/><emailcount><![CDATA[2]]></emailcount><textcount/><category><![CDATA[Promo / Survey]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[10051]]></campaignid><name><![CDATA[Second Chance Tax Relief-- (No Weekend Drops)]]></name><description><![CDATA[85 lead weekly cap / 
+US only / 
+Accepts email / 
+Converts on full form submit / 
+Filter: User must have $10k+ debt. / 
+**NEW SUB IDS: 50 leads total and run M-F ONLY**/
+250 weekly cap (combined)]]></description><payout><![CDATA[$43.00]]></payout><unit><![CDATA[per lead]]></unit><daysleft/><bannercount/><emailcount><![CDATA[9]]></emailcount><textcount/><category><![CDATA[* TOP OFFERS *,Tax]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[8836]]></campaignid><name><![CDATA[SelectMyPolicy.com - Auto Insurance (Approved Only) (No Weekend Drops)]]></name><description><![CDATA[US Only / 
+Accepts Email Banner and Social Media / 
+Does Not Accept Weekend / 
+Converts on lead submit ]]></description><payout><![CDATA[$10.80]]></payout><unit><![CDATA[per lead]]></unit><daysleft/><bannercount/><emailcount><![CDATA[8]]></emailcount><textcount/><category><![CDATA[Auto Insurance,Traffic: Display,Traffic: Social]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[9589]]></campaignid><name><![CDATA[ShadowBox TV--]]></name><description><![CDATA[Test Cap of 50 Leads / 
+US Only / 
+Accepts email, banner, search, and link placement / 
+Accepts weekend / 
+Converts on a purchase/CC submit ]]></description><payout><![CDATA[$54.00]]></payout><unit><![CDATA[per card issued]]></unit><daysleft/><bannercount/><emailcount><![CDATA[7]]></emailcount><textcount/><category><![CDATA[Entertainment / TV,Traffic: Display,Traffic: Search]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[9810]]></campaignid><name><![CDATA[Simple Home Quotes- Windows-- (No Weekend Drops)]]></name><description><![CDATA[US Only / 
+Accepts email / 
+Accepts weekend / 
+Converts on lead submit / ]]></description><payout><![CDATA[$18.00]]></payout><unit><![CDATA[per lead]]></unit><daysleft/><bannercount/><emailcount><![CDATA[8]]></emailcount><textcount/><category><![CDATA[Home / Home Improvement]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[10088]]></campaignid><name><![CDATA[Simple Home Quotes-Roofing Advertorial --(No Weekend Drops)]]></name><description><![CDATA[US Only / 
+Accepts Email / 
+No Weekend Drops / 
+Converts on lead / ]]></description><payout><![CDATA[$18.00]]></payout><unit><![CDATA[per lead]]></unit><daysleft/><bannercount/><emailcount><![CDATA[7]]></emailcount><textcount/><category><![CDATA[* TOP OFFERS *,Home / Home Improvement]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[9308]]></campaignid><name><![CDATA[SMARTECH Power Kit--]]></name><description><![CDATA[ONLY USE PUBLIC SENDING DOMAINS / 
+US Only / 
+Accepts email / 
+Accepts weekend / 
+Converts on sale / ]]></description><payout><![CDATA[$41.00]]></payout><unit><![CDATA[per sale]]></unit><daysleft/><bannercount/><emailcount><![CDATA[4]]></emailcount><textcount/><category><![CDATA[ECommerce]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[10034]]></campaignid><name><![CDATA[socialsecuritydisabilityaid.com--]]></name><description><![CDATA[US Only / 
+Accepts Email / 
+Accepts Weekend / 
+Converts on single form submit / ]]></description><payout><![CDATA[$13.50]]></payout><unit><![CDATA[per lead]]></unit><daysleft/><bannercount/><emailcount><![CDATA[2]]></emailcount><textcount/><category><![CDATA[Legal]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[8781]]></campaignid><name><![CDATA[Sony OLED Product Tester [aws]]]></name><description><![CDATA[US Only / 
+Accepts email / 
+Accepts weekend / 
+Converts per lead / ]]></description><payout><![CDATA[$3.00]]></payout><unit><![CDATA[per lead]]></unit><daysleft/><bannercount/><emailcount><![CDATA[3]]></emailcount><textcount/><category><![CDATA[ECommerce,Promo / Survey]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[9749]]></campaignid><name><![CDATA[SpeedyNetLoan-- ]]></name><description><![CDATA[Must use a Postback pixel.
+--- Traffic Restrictions: 18+, NO Incentivized, co-registration, call center-based traffic, or proxy server traffic.
+--- Loan amounts up to $1K
+--- Accepted Traffic: Email. Display OK with approval and push traffic 
+--- Is mobile optimized. 
+--- Converts on valid 2nd page form submit.]]></description><payout><![CDATA[$49.50]]></payout><unit><![CDATA[per lead]]></unit><daysleft/><bannercount><![CDATA[6]]></bannercount><emailcount><![CDATA[28]]></emailcount><textcount/><category><![CDATA[Holiday -- Christmas / New Year ,Personal Loan,Traffic: Display,Traffic: Push]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[10017]]></campaignid><name><![CDATA[STARBUCKS QUESTIONS--]]></name><description><![CDATA[US Only / 
+Accepts Email, Display, Banner / 
+Accepts Weekend / 
+Converts on email submit / 
+
+No cash incent / 
+No adult traffic / ]]></description><payout><![CDATA[$2.35]]></payout><unit><![CDATA[per email submit]]></unit><daysleft/><bannercount><![CDATA[5]]></bannercount><emailcount><![CDATA[1]]></emailcount><textcount/><category><![CDATA[Promo / Survey]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[9304]]></campaignid><name><![CDATA[Sugar Balance-- (US/CA)]]></name><description><![CDATA[US/CA Only / 
+Accepts Email / 
+Accepts weekend / 
+Converts on sale / 
+]]></description><payout><![CDATA[$72.00]]></payout><unit><![CDATA[per sale]]></unit><daysleft/><bannercount/><emailcount><![CDATA[12]]></emailcount><textcount/><category><![CDATA[Health / Wellness,Multi Geo]]></category><geotargeting><![CDATA[All traffic accepted]]></geotargeting></data><data><campaignid><![CDATA[9905]]></campaignid><name><![CDATA[Surge Mastercard--]]></name><description><![CDATA[US Only / 
+Accepts Emails / 
+Accepts Weekend / 
+Converts on Approved Application / ]]></description><payout><![CDATA[$32.00]]></payout><unit><![CDATA[per approved application]]></unit><daysleft/><bannercount/><emailcount><![CDATA[4]]></emailcount><textcount/><category><![CDATA[Credit Card]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[8912]]></campaignid><name><![CDATA[Tac Visor--]]></name><description><![CDATA[US Only / 
+Accepts email / 
+Accepts weekend / 
+Converts on sale / ]]></description><payout><![CDATA[$10.00]]></payout><unit><![CDATA[per sale]]></unit><daysleft/><bannercount/><emailcount><![CDATA[4]]></emailcount><textcount/><category><![CDATA[ECommerce,Holiday -- Christmas / New Year ]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[9757]]></campaignid><name><![CDATA[TapNLoan--]]></name><description><![CDATA[Must use a Postback pixel. / 
+--- Traffic Restrictions: 18+, NO Incentivized, co-registration, call center-based traffic, or proxy server traffic. / 
+--- Loan amounts up to $1K / 
+--- Accepted Traffic: Email. Display OK with approval and push traffic / 
+--- Is mobile optimized. / 
+--- Converts on valid 2nd page form submit. / ]]></description><payout><![CDATA[$49.50]]></payout><unit><![CDATA[per lead]]></unit><daysleft/><bannercount/><emailcount><![CDATA[29]]></emailcount><textcount/><category><![CDATA[Holiday -- Christmas / New Year ,Personal Loan,Traffic: Display,Traffic: Push]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[9765]]></campaignid><name><![CDATA[The Exodus Effect--]]></name><description><![CDATA[US Only except California / 
+Accepts email / 
+Accepts weekend / 
+Converts on sale / ]]></description><payout><![CDATA[$58.00]]></payout><unit><![CDATA[per sale]]></unit><daysleft/><bannercount/><emailcount><![CDATA[55]]></emailcount><textcount/><category><![CDATA[CBD,Health / Wellness]]></category><geotargeting><![CDATA[All traffic accepted]]></geotargeting></data><data><campaignid><![CDATA[9740]]></campaignid><name><![CDATA[The Found Money Guide-- ]]></name><description><![CDATA[250 leads/day / 
+US only / 
+Accepts email / 
+Accepts weekend / 
+Converts on first lead submit / ]]></description><payout><![CDATA[$2.25]]></payout><unit><![CDATA[per lead]]></unit><daysleft/><bannercount/><emailcount><![CDATA[4]]></emailcount><textcount/><category><![CDATA[Promo / Survey]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[9742]]></campaignid><name><![CDATA[The Free Sample Helper--]]></name><description><![CDATA[250 leads/day / 
+US only / 
+Accepts email / 
+Accepts weekend / 
+Converts on first lead submit / ]]></description><payout><![CDATA[$2.25]]></payout><unit><![CDATA[per lead]]></unit><daysleft/><bannercount/><emailcount><![CDATA[3]]></emailcount><textcount/><category><![CDATA[Promo / Survey]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[9759]]></campaignid><name><![CDATA[TotalPersonalLoan--]]></name><description><![CDATA[Must use a Postback pixel. / 
+--- Traffic Restrictions: 18+, NO Incentivized, co-registration, call center-based traffic, or proxy server traffic. / 
+--- Loan amounts up to $1K / 
+--- Accepted Traffic: Email. Display OK with approval and push traffic / 
+--- Is mobile optimized. / 
+--- Converts on valid 2nd page form submit. / ]]></description><payout><![CDATA[$49.50]]></payout><unit><![CDATA[per lead]]></unit><daysleft/><bannercount/><emailcount><![CDATA[23]]></emailcount><textcount/><category><![CDATA[Health Insurance,Personal Loan,Traffic: Display,Traffic: Push]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[9794]]></campaignid><name><![CDATA[Translator Device--]]></name><description><![CDATA[US Only / 
+Accepts Email / 
+Accepts Weekend Traffic / 
+Converts on Credit Card Purchase / ]]></description><payout><![CDATA[$42.00]]></payout><unit><![CDATA[per card issued]]></unit><daysleft/><bannercount/><emailcount><![CDATA[4]]></emailcount><textcount/><category><![CDATA[Misc]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[10391]]></campaignid><name><![CDATA[TVFix Caster--]]></name><description><![CDATA[US Only / 
+Accepts Email / 
+Accepts Weekend / 
+Converts on CC Submit]]></description><payout><![CDATA[$51.00]]></payout><unit><![CDATA[per card issued]]></unit><daysleft/><bannercount/><emailcount><![CDATA[3]]></emailcount><textcount/><category><![CDATA[ECommerce]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[9734]]></campaignid><name><![CDATA[TVNow Pro Advertorial--(No Weekend Drops) ]]></name><description><![CDATA[US Only / 
+Accepts email / 
+Does not accept weekend / 
+Converts on a credit card purchase / ]]></description><payout><![CDATA[$32.00]]></payout><unit><![CDATA[per card issued]]></unit><daysleft/><bannercount/><emailcount><![CDATA[5]]></emailcount><textcount/><category><![CDATA[Entertainment / TV]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[9733]]></campaignid><name><![CDATA[TVNow Pro--(No Weekend Drops)]]></name><description><![CDATA[US Only / 
+Accepts email / 
+Does not accept weekend / 
+Converts on a credit card purchase / ]]></description><payout><![CDATA[$32.00]]></payout><unit><![CDATA[per card issued]]></unit><daysleft/><bannercount/><emailcount><![CDATA[4]]></emailcount><textcount/><category><![CDATA[Entertainment / TV]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[6550]]></campaignid><name><![CDATA[USA Home Protection]]></name><description><![CDATA[Accepts weekend / 
+Accepts email / 
+Converts on phone number submit / ]]></description><payout><![CDATA[$25.00]]></payout><unit><![CDATA[per lead]]></unit><daysleft/><bannercount/><emailcount><![CDATA[38]]></emailcount><textcount/><category><![CDATA[Home Warranty]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[7885]]></campaignid><name><![CDATA[View Foreclosure Homes(No weekend drops)]]></name><description><![CDATA[Monday - Friday Drops only / 
+Accepts email / 
+Converts on 3rd page lead submit / ]]></description><payout><![CDATA[$3.50]]></payout><unit><![CDATA[per lead]]></unit><daysleft/><bannercount/><emailcount><![CDATA[4]]></emailcount><textcount/><category><![CDATA[* TOP OFFERS *,Home / Home Improvement]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[10226]]></campaignid><name><![CDATA[Vision 20/20--]]></name><description><![CDATA[US Only / 
+Accepts Email / 
+Accepts Weekend / 
+Converts on cc submit / ]]></description><payout><![CDATA[$18.00]]></payout><unit><![CDATA[per card issued]]></unit><daysleft/><bannercount/><emailcount><![CDATA[9]]></emailcount><textcount/><category><![CDATA[Health / Wellness]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[9752]]></campaignid><name><![CDATA[VivaLoan--]]></name><description><![CDATA[Must use a Postback pixel.
+--- Traffic Restrictions: 18+, NO Incentivized, co-registration, call center-based traffic, or proxy server traffic.
+--- Loan amounts up to $1K
+--- Accepted Traffic: Email. Display OK with approval and push traffic 
+--- Is mobile optimized. 
+--- Converts on valid 2nd page form submit.]]></description><payout><![CDATA[$49.50]]></payout><unit><![CDATA[per lead]]></unit><daysleft/><bannercount><![CDATA[6]]></bannercount><emailcount><![CDATA[62]]></emailcount><textcount/><category><![CDATA[Holiday -- Christmas / New Year ,Personal Loan,Traffic: Display,Traffic: Push]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[9880]]></campaignid><name><![CDATA[Walmart Shopper Survey CPL-- ]]></name><description><![CDATA[US Only / 
+Accepts email, email newsletter, display, push, SMS / 
+Accepts weekend traffic / 
+Converts on email submit / ]]></description><payout><![CDATA[$2.70]]></payout><unit><![CDATA[per email submit]]></unit><daysleft/><bannercount/><emailcount><![CDATA[4]]></emailcount><textcount/><category><![CDATA[Promo / Survey,Traffic: Display,Traffic: Push,Traffic: SMS ]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[9840]]></campaignid><name><![CDATA[WeBuyHomes4Cash--]]></name><description><![CDATA[US Only / 
+Accepts email / 
+Accepts weekend / 
+Converts on lead]]></description><payout><![CDATA[$65.00]]></payout><unit><![CDATA[per lead]]></unit><daysleft/><bannercount/><emailcount><![CDATA[28]]></emailcount><textcount/><category><![CDATA[* TOP OFFERS *,Home / Home Improvement]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[9222]]></campaignid><name><![CDATA[William Psychic--]]></name><description><![CDATA[US only / 
+Accepts email / 
+Accepts weekend traffic / 
+Converts on first page submit / 
+Cap: 2,000 leads per month]]></description><payout><![CDATA[$2.00]]></payout><unit><![CDATA[per action]]></unit><daysleft/><bannercount/><emailcount><![CDATA[11]]></emailcount><textcount/><category><![CDATA[* TOP OFFERS *,Holiday -- Christmas / New Year ,Psychic / Horoscope]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[9907]]></campaignid><name><![CDATA[Youthful Brain--]]></name><description><![CDATA[US Only / 
+Accepts Emails / 
+Accepts Weekends / 
+Converts on CC submit]]></description><payout><![CDATA[$77.00]]></payout><unit><![CDATA[per card issued]]></unit><daysleft/><bannercount/><emailcount><![CDATA[11]]></emailcount><textcount/><category><![CDATA[Health / Wellness]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data><data><campaignid><![CDATA[9755]]></campaignid><name><![CDATA[ZippyLoan--]]></name><description><![CDATA[Must use a Postback pixel.
+--- Traffic Restrictions: 18+, NO Incentivized, co-registration, call center-based traffic, or proxy server traffic.
+--- Loan amounts up to $1K
+--- Accepted Traffic: Email. Display OK with approval and push traffic 
+--- Is mobile optimized. 
+--- Converts on valid 2nd page form submit.]]></description><payout><![CDATA[$49.50]]></payout><unit><![CDATA[per lead]]></unit><daysleft/><bannercount/><emailcount><![CDATA[47]]></emailcount><textcount/><category><![CDATA[* TOP OFFERS *,Holiday -- Christmas / New Year ,Personal Loan,Traffic: Display,Traffic: Push]]></category><geotargeting><![CDATA[Traffic allowed from: US Only]]></geotargeting></data></dataset>

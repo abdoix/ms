@@ -1,0 +1,9 @@
+{
+    "key" : "clients",
+    "driver": "pgsql",
+    "host": "ip",
+    "port": "5432",
+    "database": "clients",
+    "username": "",
+    "password": ""
+}

@@ -1,0 +1,30 @@
+{
+    "framework": "IR Framework",
+    "version": "1.1",
+    "author": "mkh",
+    "year": "2019",
+    "application": {
+        "name": "GM Application",
+        "company": "GM\u00a9",
+        "version": "4.0",
+        "default_db": "system",
+        "pmta_http_port": "525",
+        "upload_center_id": "",
+        "new_tab_open": "same",
+        "webmail_server_id": "",
+        "pmta_config_type": "default",
+        "tracking_enc_key": "%86Xvj&fmAW4L!S7cvWuNK4W36F_VBe6_FkYX4h^ah9&9j?D6hw2E$J*!anA7Bac",
+        "bit_shortlinks_user": "",
+        "bit_shortlinks_api": "",
+        "sidebar_behaviour": "expended",
+        "base_url": "http:\/\/0.0.0.0",
+        "gcloud_bucket_size": "15",
+        "gcloud_object_size": "15",
+        "ssl_email": "",
+        "lamda_timer": "5m",
+        "suppression_timer": "7",
+        "bit_shortlinks_token": "",
+        "pmta_firewall_ips_domains": "",
+        "optizmo_token": ""
+    }
+}

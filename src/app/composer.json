@@ -1,0 +1,46 @@
+{
+    "name": "iresponse/iresponse",
+    "description": "iResponse Framework",
+    "authors": 
+    [
+        {
+            "name": "Amine Idrissi",
+            "email": "contact@iresponse.tech"
+        }
+    ],
+    "autoload": 
+    {
+        "psr-4": 
+        {
+            "IR\\Core\\" : "framework/core",
+            "IR\\Exceptions\\" : "framework/exceptions",
+            "IR\\Exceptions\\Types\\" : "framework/exceptions/types",
+            "IR\\Http\\" : "framework/http",
+            "IR\\Logs\\" : "framework/logs",
+            "IR\\Mvc\\" : "framework/mvc",
+            "IR\\Orm\\" : "framework/orm",
+            "IR\\Routing\\" : "framework/routing",
+            "IR\\Templating\\" : "framework/templating",
+            "IR\\Utils\\Compression\\" : "framework/utils/compression",
+            "IR\\Utils\\Meta\\" : "framework/utils/meta",
+            "IR\\Utils\\Output\\" : "framework/utils/output",
+            "IR\\Utils\\Security\\" : "framework/utils/security",
+            "IR\\Utils\\System\\" : "framework/utils/system",
+            "IR\\Utils\\Types\\" : "framework/utils/types",
+            "IR\\Utils\\Web\\" : "framework/utils/web",
+
+            "IR\\App\\Controllers\\" : "app/controllers",
+            "IR\\App\\Helpers\\" : "app/helpers",
+            "IR\\App\\Libraries\\" : "app/libraries",
+            "IR\\App\\Models\\Admin\\" : "app/models/admin",
+            "IR\\App\\Models\\Affiliate\\" : "app/models/affiliate",
+            "IR\\App\\Models\\Production\\" : "app/models/production",
+            "IR\\App\\Models\\Lists\\" : "app/models/lists",
+            "IR\\App\\Models\\Actions\\" : "app/models/actions",
+            "IR\\App\\Webservices\\" : "app/webservices"
+        }
+    },
+    "require": {
+        "monolog/monolog": "^1.26"
+    }
+}

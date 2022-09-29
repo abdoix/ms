@@ -1,0 +1,39 @@
+#/**
+# * @framework       iResponse Framework 
+# * @version         1.0
+# * @author          Amine Idrissi <contact@iresponse.tech>
+# * @date            2019
+# * @name            .htaccess	
+# */
+
+# fix slowness loading 
+<IfModule mod_expires.c>
+    ExpiresActive On
+    ExpiresByType image/jpg "access 1 year"
+    ExpiresByType image/jpeg "access 1 year"
+    ExpiresByType image/gif "access 1 year"
+    ExpiresByType image/png "access 1 year"
+    ExpiresByType text/css "access 1 month"
+    ExpiresByType text/html "access 1 month"
+    ExpiresByType application/pdf "access 1 month"
+    ExpiresByType text/x-javascript "access 1 month"
+    ExpiresByType application/x-shockwave-flash "access 1 month"
+    ExpiresByType image/x-icon "access 1 year"
+    ExpiresDefault "access 1 month"
+</IfModule>
+
+# Turn mod_rewrite on
+RewriteEngine On
+
+# set options 
+Options -Indexes +FollowSymLinks -MultiViews
+
+# As long as we're not requesting access to a file...
+RewriteCond %{REQUEST_FILENAME} !-f
+
+# As long as we're not requesting access to a folder...
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-l
+
+# Route everything through index.php
+RewriteRule ^([a-zA-Z0-9\/\-_]+)\.?([a-zA-Z]+)?$ index.php?request_url=$1&extension=$2 [QSA,L]

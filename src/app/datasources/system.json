@@ -1,0 +1,9 @@
+{
+    "key" : "system",
+    "driver": "pgsql",
+    "host": "ip",
+    "port": "5432",
+    "database": "system",
+    "username": "",
+    "password": ""
+}
