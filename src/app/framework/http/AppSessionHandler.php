@@ -64,6 +64,7 @@ class AppSessionHandler extends SessionHandler
      */
     public function read($id)
     {
+        
         return Application::getCurrent()->utils->encryptor->decrypt(parent::read($id),AppSessionHandler::$_SESSION_KEY);
     }
     
@@ -86,18 +87,21 @@ class AppSessionHandler extends SessionHandler
      */
     public function connect() 
     {
-        if('' == session_id())
-        {
-            if(!headers_sent()) session_start();
-        }
-        else
-        {
-            if(!headers_sent())
+        try {
+            if('' == session_id())
             {
-                session_write_close();
-                session_start();
+                if(!headers_sent()) session_start();
             }
-        }
+            else
+            {
+                if(!headers_sent())
+                {
+                    session_write_close();
+                    session_start();
+                }
+            }
+        } catch (Exception $e){}
+        
     }
      
     /**

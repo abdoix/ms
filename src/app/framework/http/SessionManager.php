@@ -168,7 +168,7 @@ class SessionManager
     public function exists($property) 
     {
         $this->_session->connect();
-        $exists = key_exists($property,$this->_SESSION);
+        $exists = key_exists($property,$this->_session);
         $this->_session->release();
         return $exists;
     }
